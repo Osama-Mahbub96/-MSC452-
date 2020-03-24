@@ -1,0 +1,8 @@
+!DOCTYPE html>
+<html>
+<body>
+<h1> ADDING THE IMAGE </h1>
+<p>Adding my favourite image in the webpage</p>
+<img src="file:///C:/Users/16204058/Desktop/project%202/ant%20man.jpg" alt="money heist" width="1280" Height="1280">
+</body>
+</html>
